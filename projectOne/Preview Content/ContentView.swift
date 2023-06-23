@@ -21,14 +21,14 @@ struct ContentView: View {
                 .resizable(resizingMode: .stretch)
                 .imageScale(.small)
                 .foregroundColor(.accentColor)
-            Text("I'm 17 and I'm a rising senior at North Cobb HS")
+            Text("I'm 17 and I'm a rising senior at North Cobb HS Hello!!")
                 .foregroundColor(.white)
 
         }
         .padding()
         .background(.purple)
     
-        Button("More facts!!") {
+        Button("More facts!") {
             
         }
     
